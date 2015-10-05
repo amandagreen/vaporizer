@@ -22,7 +22,7 @@ Some things to know before using this gem:
 * This is my first gem, please be tolerant
 * Leafly API is kind of inconsistent and do not respect rules of JSON API standard, that's not my fault
 * Changes in Leafly API could break this gem, if it happens, do not hesitate to open an issue and I will fix it as fast as possible
-* Vaporizer returns pure parsed JSON and do not wrap results with objects
+* [Vaporizer](http://www.vaporizerchief.com) returns pure parsed JSON and do not wrap results with objects
 * If you need more functionalities, do not hesitate to contact me and we will discuss it
 
 ## Configuration
